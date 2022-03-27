@@ -20,7 +20,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover; */
   background-color: rgb(243, 242, 242);
-  background-image: url("../images/bg2.webp");
+  background-image: url("./assets/images/bg2.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: top;
@@ -78,6 +78,11 @@ h3{
   margin: 0 auto 15px;
   padding: 10px;
   border-radius: 10px;
+}
+
+h5{
+  color:rgb(0, 0, 0);
+  font-size: x-large !important;
 }
 
 hr {

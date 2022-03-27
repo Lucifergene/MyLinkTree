@@ -6,6 +6,6 @@ Opensource Alternative to LinkTree.
 **Template**: Minimal Pastel  
 This template was created by [Oscar Martínez Valero (Valerock)](https://linktr.ee/oscarvalerock "Oscar Martínez Valero (Valerock)").
 
-## Original Template Demo
+## Demo
 
 ![Template](./Minimal%20Pastel%20Preview.gif)
